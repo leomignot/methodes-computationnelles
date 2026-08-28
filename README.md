@@ -48,14 +48,14 @@ Bloc 3 – Statistiques et visualisations (2 séances)
 - Visualisations bivariées : scatterplots, lineplots, boxplots croisés
 - Tests statistiques, régression linéaire et logistique
 
-Bloc 4 – Fondamentaux du Machine Learning et de l'IA (2 séances)
+Bloc 4 – Fondamentaux du Machine Learning et de l'IA (2 séances)  
 *Objectif : découvrir les grands principes du ML et de l'IA générative*
 
 - Panorama de l'IA
 - ML : entraînement de modèles, train et test sets, etc.
 - Principes de fonctionnement et cas d'usages en sciences sociales
 
-Bloc 5 – Collecte de données sur le Web (2 séances)
+Bloc 5 – Collecte de données sur le Web (2 séances)  
 *Objectif : constituer un corpus de données à partir du web*
 
 - Web scraping : principes et mise en pratique
@@ -63,7 +63,7 @@ Bloc 5 – Collecte de données sur le Web (2 séances)
 
 **Blocs semestre 2 :**
 
-Bloc 6 – Traitement automatique des langues (TAL/NLP)
+Bloc 6 – Traitement automatique des langues (TAL/NLP)  
 *Objectif : découvrir l'analyse automatique de textes, des classiques à l'IA Générative*
 
 - Bag of words, matrices documents-termes, TF-IDF
@@ -73,13 +73,13 @@ Bloc 6 – Traitement automatique des langues (TAL/NLP)
 - LLM, GPT et IA générative
 - Évaluer un modèle
 
-Bloc 7 – Projets et analyse de réseau
+Bloc 7 – Projets et analyse de réseau  
 *Objectif : travailler sur un projet et s'initier à l'analyse de réseau*
 
 - Ateliers projets
 - Données relationnelles
 
-Bloc 8 – Autonomie (2 séances)
+Bloc 8 – Autonomie (2 séances)  
 *Objectif : autonomie et installation locale, prendre du recul sur les méthodes*
 
 - Rappel enjeux éthiques & régulation
@@ -95,8 +95,7 @@ Les rendus débouchent sur un rendu final prenant la forme de **XXXXXXXXX**.
 <!-- COMPLÉTER -->
 
 Semestre 1
-mini rendus + rendu final ?
-- création démo
+- création démo : Why/How/Ressources
 - rendu lecture article lien avec CSS ou/et mémoire
 - rendu "tech" : une visu "avancée" commentée ou une analyse stat (regression) commentée
 
