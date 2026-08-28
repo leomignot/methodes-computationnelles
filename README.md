@@ -1,8 +1,6 @@
 # Méthodes Computationnelles - 4A
 
-Ce repo contiendra les supports pour le cours de Méthodes Computationnelles - 4A - Sciences Po Bordeaux.
-
-24 séances * 1H30
+Ce repo contiendra les supports pour le cours de Méthodes Computationnelles 4A - Sciences Po Bordeaux (24 séances * 1H30).
 
 ## Table des matières  <!-- omit in toc -->
 
@@ -16,7 +14,37 @@ Ce repo contiendra les supports pour le cours de Méthodes Computationnelles - 4
 
 ## Introduction
 
+TODO
+
+<!-- TODO
+
+bla
+
+bliblou
+
+Cet atelier propose une initiation progressive aux sciences sociales computationnelles à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
+
+bloubli
+```
+Comment faire passer un message simple à partir d'informations complexes ?  
+
+Dans un monde où les données sont omniprésentes, la capacité à produire des visualisations est devenue une compétence essentielle pour les journalistes, chercheur·e·s ou tout·e professionnel·le se confrontant à des données dans ses travaux ou sa prise de décision.
+
+Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
+
+En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
+```
+-->
+
 ### À la fin du semestre, vous saurez <!-- omit in toc -->
+
+<!-- TODO + FINALISER + s'inspirer des objectifs autres cours-->
+
+- Mobiliser des méthodes computationnelles pour vos projets.
+- Réaliser les étapes clés d'un projet : collecte, chargement, préparation, analyses statistiques & textuelles, production graphique.
+- Choisir les méthodes et outils pertinents selon vos données et questions de recherche.
+- Exercer un regard critique sur ces méthodes (enjeux éthiques, théoriques, etc.)
+- Mobiliser des bibliothèques Python devenues incontournables en analyse de données, NLP, etc.
 
 ## Format du cours et programme prévisionnel
 
@@ -97,7 +125,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | **Semestre 1** |  |  |
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Rendu computationnel : Infographie ou analyse statistique     | 40%   |
+| xx/yy/zzzz | Rendu computationnel : infographie ou analyse stat  | 40%   |
 | **Semestre 2** |  |  |
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
