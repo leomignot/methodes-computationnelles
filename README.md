@@ -109,7 +109,7 @@ Semestre 2
 |------------|-----------------------------------------------------|-------|
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Infographie ou analyse statistique                  | 40%   |
+| xx/yy/zzzz | Rendu tech : Infographie ou analyse statistique     | 40%   |
 
 **Rendus semestre 2 :**
 
@@ -117,12 +117,15 @@ Semestre 2
 |------------|-----------------------------------------------------|-------|
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Infographie ou analyse statistique                  | 40%   |
+| xx/yy/zzzz | Rendu tech : application des méthodes               | 40%   |
 
-**Critères de réussite des rendus :**
-<!-- TODO: Établir consignes rendu -->
+**Description des rendus :**
+- **Démo commentée  :** Remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
+- **Note de lecture :** Note de lecture en 2 pages d'un article de sciences sociales computationnelles. Idéalement en lien avec le sujet de mémoire envisagé, ou plus générique.
+- **Rendu tech :** Application des éléments de programmation. Au premier semestre, rendu d'une infographie ou d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
+- **Critères de réussite des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/rendus)
 
-**Démo commentée  :** remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
+<!-- TODO: Établir suite consignes rendu -->
 
 ## Calendrier
 
