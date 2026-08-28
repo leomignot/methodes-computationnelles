@@ -139,8 +139,8 @@ Semestre 2
 | Séance 20 | Évaluer un modèle : application et comparaisons |  |  |
 | Séance 21 | Atelier projet I + bonus Réseaux et données relationnelles |  |  |
 | Séance 22 | Atelier projet II + bonus Réseaux et données relationnelles |  |  |
-| Séance 23 | Perspectives et autonomie (outillage/installation/reproductibilité et organisation d'un projet) |  |  |
-| Séance 24 | Bilan du cours, présentations informelles des travaux réalisés |  |  |
+| Séance 23 | Autonomie : outillage et installation locale |  |  |
+| Séance 24 | Perspectives et bilan du cours |  |  |
 | XX/yy/ZZZZ | Rendu S2 |  |  |
 
 ## Contact & Support
