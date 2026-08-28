@@ -90,18 +90,7 @@ Bloc 8 – Autonomie (2 séances)
 
 ## Validation des acquis
 
-Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de rendus intermédiaires.
-Les rendus débouchent sur un rendu final prenant la forme de **XXXXXXXXX**.
-<!-- COMPLÉTER -->
-
-Semestre 1
-- rendu lecture article CSS (possiblement en lien avec mémoire ou général)
-- rendu "tech" : une visu "avancée" commentée ou une analyse stat (regression) commentée
-
-Semestre 2
-- création démo
-- rendu lien mémoire ?
-- rendu tech : application d'une des méthodes vues au sujet du choix du groupe (= application méthodes)
+Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de trois types de rendus : des démonstrations, des notes de lecture et des rendus computationnels.
 
 **Rendus semestre 1 :**
 
@@ -109,7 +98,7 @@ Semestre 2
 |------------|-----------------------------------------------------|-------|
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Rendu tech : Infographie ou analyse statistique     | 40%   |
+| xx/yy/zzzz | Rendu computationnel : Infographie ou analyse statistique     | 40%   |
 
 **Rendus semestre 2 :**
 
@@ -117,13 +106,13 @@ Semestre 2
 |------------|-----------------------------------------------------|-------|
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Rendu tech : application des méthodes               | 40%   |
+| xx/yy/zzzz | Rendu computationnel : application des méthodes     | 40%   |
 
 **Description des rendus :**
 - **Démo commentée  :** Remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
 - **Note de lecture :** Note de lecture en 2 pages d'un article de sciences sociales computationnelles. Idéalement en lien avec le sujet de mémoire envisagé, ou plus générique.
-- **Rendu tech :** Application des éléments de programmation. Au premier semestre, rendu d'une infographie ou d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
-- **Critères de réussite des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/rendus)
+- **Rendu computationnel :** Application des éléments de programmation. Au premier semestre, rendu d'une infographie ou d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
+- **Critères de réussite des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/rendus).
 
 <!-- TODO: Établir suite consignes rendu -->
 
