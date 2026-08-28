@@ -95,15 +95,34 @@ Les rendus débouchent sur un rendu final prenant la forme de **XXXXXXXXX**.
 <!-- COMPLÉTER -->
 
 Semestre 1
-- création démo : Why/How/Ressources
-- rendu lecture article lien avec CSS ou/et mémoire
+- rendu lecture article CSS (possiblement en lien avec mémoire ou général)
 - rendu "tech" : une visu "avancée" commentée ou une analyse stat (regression) commentée
 
 Semestre 2
 - création démo
-- application méthodes
 - rendu lien mémoire ?
-- projet collectif ?
+- rendu tech : application d'une des méthodes vues au sujet du choix du groupe (= application méthodes)
+
+**Rendus semestre 1 :**
+
+| Date rendu | Description                                         | Poids |
+|------------|-----------------------------------------------------|-------|
+| Selon GP   | Démo commentée                                      | 30%   |
+| Séance Y   | Note de lecture                                     | 30%   |
+| xx/yy/zzzz | Infographie ou analyse statistique                  | 40%   |
+
+**Rendus semestre 2 :**
+
+| Date rendu | Description                                         | Poids |
+|------------|-----------------------------------------------------|-------|
+| Selon GP   | Démo commentée                                      | 30%   |
+| Séance Y   | Note de lecture                                     | 30%   |
+| xx/yy/zzzz | Infographie ou analyse statistique                  | 40%   |
+
+**Critères de réussite des rendus :**
+<!-- TODO: Établir consignes rendu -->
+
+**Démo commentée  :** remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
 
 ## Calendrier
 
@@ -119,8 +138,8 @@ Semestre 2
 | Séance 6 | Recoder et créer des variables |  |  |
 | Séance 7 | Statistiques et Visualisations I |  |  |
 | Séance 8 | Statistiques et Visualisations II |  |  |
-| Séance 9 | Fondamentaux ML & IA |  |  |
-| Séance 10 | Fondamentaux ML & IA |  |  |
+| Séance 9 | Fondamentaux ML & IA I |  |  |
+| Séance 10 | Fondamentaux ML & IA II |  |  |
 | Séance 11 | Collecter des données sur le Web (web scraping) |  |  |
 | Séance 12 | Les API et les données ouvertes |  |  |
 | XX/yy/ZZZZ | Rendu S1 |  |  |
