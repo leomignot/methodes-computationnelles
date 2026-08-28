@@ -92,8 +92,6 @@ Bloc 8 – Autonomie (2 séances)
 
 Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de trois types de rendus : des démonstrations, des notes de lecture et des rendus computationnels.
 
-**Rendus semestre 1 :**
-
 | Date rendu | Description                                         | Poids |
 |------------|-----------------------------------------------------|-------|
 | **Semestre 1** |  |  |
@@ -157,12 +155,19 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 
 ## Liens utiles
 
+Cours et formations :
+
+- https://pythonds.linogaliana.fr
 - https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
 - https://github.com/mickaeltemporao/lillelms
 - https://github.com/css-polytechnique/SICSS-2025-Material
 - https://paulcbauer.github.io/teaching.html
+
+Livres :
+
+- https://www.bitbybitbook.com/
 - https://press.princeton.edu/books/hardcover/9780691207544/text-as-data
-- https://pythonds.linogaliana.fr/content/NLP/
+
 <!-- ACTUALISER LISTE -->
 
 ## À propos  <!-- omit in toc -->
