@@ -96,14 +96,11 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 
 | Date rendu | Description                                         | Poids |
 |------------|-----------------------------------------------------|-------|
+| **Semestre 1** |  |  |
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
 | xx/yy/zzzz | Rendu computationnel : Infographie ou analyse statistique     | 40%   |
-
-**Rendus semestre 2 :**
-
-| Date rendu | Description                                         | Poids |
-|------------|-----------------------------------------------------|-------|
+| **Semestre 2** |  |  |
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
 | xx/yy/zzzz | Rendu computationnel : application des méthodes     | 40%   |
