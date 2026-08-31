@@ -216,3 +216,13 @@ Ont largement participé :
 ## Licence
 
 Ce projet est sous licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Vous êtes libre d'utiliser, copier, adapter ce contenu ou le partager à condition de créditer les auteurs originaux, de ne pas en faire un usage commercial et de distribuer toute oeuvre dérivée sous cette même licence.
+
+Une partie des contenus proposés ici s'inspire de ressources pédagogiques disponibles sous licence libre et d'échanges et collaborations avec d'autres contributeur·ices, notamment :
+
+- Axel Morin
+- Émilien Schultz
+- Mickael Temporão
+- Flore Vancompernolle Vromman
+- Corentin Vande Kerckhove
+
+(N'hésitez pas à signaler si un crédit venait à manquer)
