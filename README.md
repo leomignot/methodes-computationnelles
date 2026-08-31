@@ -14,7 +14,7 @@ Ce repo contiendra les supports pour le cours de Méthodes Computationnelles 4A 
 
 ## Introduction
 
-Comment explorer des masses de données complexes et les transformer en connaissance ?
+Comment explorer des masses de données complexes et les transformer en connaissances ?
 
 La numérisation des sociétés a profondément transformé la quantité et la nature des données disponibles sur les individus et leurs comportements. Associée au développement des puissances de calcul et l'apparition de nouveaux outils, cette évolution a contribué à un renouvellement des objets de recherche et des méthodes en sciences sociales.
 
