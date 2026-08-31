@@ -43,7 +43,7 @@ Tout au long du module des thèmes tels que la polarisation, le knowledge gap, l
 Les séances sont organisées en format atelier. Chaque séance comportera une dimension pratique, avec des temps d'application et exercices sur des cas concrets. Le module est organisé en séquences progressives :
 
 - au premier semestre : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) statistiques et visualisations, (4) introduction aux principes du machine learning et de l'intelligence artificielle, (5) collecte de données sur le web (web scrapping et API)
-- au second semestre : (6) traitement automatique des langues (TAL/NLP), (7) Projets et analyse de réseau, (8) autonomie et installation locale.
+- au second semestre : (6) traitement automatique des langues (TAL/NLP), (7) Projets, (8) autonomie et installation locale.
 
 **Blocs semestre 1 :**
 
@@ -93,11 +93,10 @@ Bloc 6 – Traitement automatique des langues (TAL/NLP)
 - LLM, GPT et IA générative
 - Évaluer un modèle
 
-Bloc 7 – Projets et analyse de réseau  
-*Objectif : travailler sur un projet et s'initier à l'analyse de réseau*
+Bloc 7 – Projets  
+*Objectif : travailler sur un projet et appliquer les méthodes*
 
 - Ateliers projets
-- Données relationnelles
 
 Bloc 8 – Autonomie (2 séances)  
 *Objectif : autonomie et installation locale, prendre du recul sur les méthodes*
@@ -164,8 +163,8 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance 18 | Le texte génératif (LLM et IA GEN) |  |  |
 | Séance 19 | Requête LLM et prompt engineering |  |  |
 | Séance 20 | Évaluer les modèles |  |  |
-| Séance 21 | Atelier projet I + bonus Réseaux et données relationnelles |  |  |
-| Séance 22 | Atelier projet II + bonus Réseaux et données relationnelles |  |  |
+| Séance 21 | Atelier projet I |  |  |
+| Séance 22 | Atelier projet II |  |  |
 | Séance 23 | Autonomie : outillage et installation locale |  |  |
 | Séance 24 | Perspectives et bilan du cours |  |  |
 | XX/yy/ZZZZ | Rendu S2 |  |  |
