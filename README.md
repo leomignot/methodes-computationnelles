@@ -38,12 +38,10 @@ En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences soc
 
 ### À la fin du semestre, vous saurez <!-- omit in toc -->
 
-<!-- TODO + FINALISER + s'inspirer des objectifs autres cours-->
-
 - Mobiliser des méthodes computationnelles pour vos projets.
-- Réaliser les étapes clés d'un projet : collecte, chargement, préparation, analyses statistiques & textuelles, production graphique.
+- Réaliser les étapes clés d'un projet : collecte, chargement, préparation, analyses statistiques & textuelles, production graphique, etc.
 - Choisir les méthodes et outils pertinents selon vos données et questions de recherche.
-- Exercer un regard critique sur ces méthodes (enjeux éthiques, théoriques, etc.).
+- Exercer un regard critique sur ces méthodes, comprendre leurs avantages et leurs limites (enjeux éthiques, théoriques, etc.).
 - Mobiliser des bibliothèques Python devenues incontournables en analyse de données, NLP, etc.
 
 ## Format du cours et programme prévisionnel
@@ -132,6 +130,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | xx/yy/zzzz | Rendu computationnel : application des méthodes     | 40%   |
 
 **Description des rendus :**
+
 - **Démo commentée  :** Remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
 - **Note de lecture :** Note de lecture en 2 pages d'un article de sciences sociales computationnelles. Idéalement en lien avec le sujet de mémoire envisagé, ou plus générique.
 - **Rendu computationnel :** Application des éléments de programmation. Au premier semestre, rendu d'une infographie ou d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
@@ -198,24 +197,11 @@ Livres :
 
 <!-- ACTUALISER LISTE -->
 
-## À propos  <!-- omit in toc -->
-
-<!-- 
-Ces slides (et plus généralement les formations) sont le résultat d'échanges et de collaborations. 
-
-Ont largement participé :
-
-- Emilien SChultz
-- Léo Mignot
-- Matthias Bussonnier
-- Mathieu Morey
-- Mickael Temporão
--->
-
-
-## Licence
+## Licence  <!-- omit in toc -->
 
 Ce projet est sous licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Vous êtes libre d'utiliser, copier, adapter ce contenu ou le partager à condition de créditer les auteurs originaux, de ne pas en faire un usage commercial et de distribuer toute oeuvre dérivée sous cette même licence.
+
+## À propos  <!-- omit in toc -->
 
 Une partie des contenus proposés ici s'inspire de ressources pédagogiques disponibles sous licence libre et d'échanges et collaborations avec d'autres contributeur·ices, notamment :
 
