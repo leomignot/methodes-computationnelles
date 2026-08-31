@@ -14,26 +14,20 @@ Ce repo contiendra les supports pour le cours de Méthodes Computationnelles 4A 
 
 ## Introduction
 
-TODO
+Comment transformer des masses de données complexes en compréhension, en analyses, en connaissance ?
 
-<!-- TODO
+La numérisation des sociétés a profondément transformé la quantité et la nature des données disponibles sur les individus et leurs comportements. Associée au développement des puissances de calcul et l'apparition de nouveaux outils, cette évolution a contribué à un renouvellement des objets de recherche et des méthodes en sciences sociales.
 
-bla
+Dans ce contexte, la capacité à collecter, comprendre et analyser des données est devenue une compétence importante pour les chercheur·es et a conduit à l'emergence des sciences sociales computationnelles.
 
-bliblou
+Cet atelier propose une initiation progressive aux méthodes computationnelles à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
 
-Cet atelier propose une initiation progressive aux sciences sociales computationnelles à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
+En s'inscrivant dans une réflexion critique sur les usages computationnels en sciences sociales, il s'agira d'apprendre à collecter, manipuler, explorer et analyser des données empiriques dans le cadre de projets de recherche en sociologie et science politique.
 
-bloubli
-```
-Comment faire passer un message simple à partir d'informations complexes ?  
-
-Dans un monde où les données sont omniprésentes, la capacité à produire des visualisations est devenue une compétence essentielle pour les journalistes, chercheur·e·s ou tout·e professionnel·le se confrontant à des données dans ses travaux ou sa prise de décision.
-
-Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
-
-En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
-```
+<!--
+Dans un monde où les données sont omniprésentes
+tout en interrogeant les avantages et limites de ces méthodes.
+Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
 -->
 
 ### À la fin du semestre, vous saurez <!-- omit in toc -->
