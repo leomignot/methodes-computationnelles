@@ -43,7 +43,7 @@ En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences soc
 - Mobiliser des méthodes computationnelles pour vos projets.
 - Réaliser les étapes clés d'un projet : collecte, chargement, préparation, analyses statistiques & textuelles, production graphique.
 - Choisir les méthodes et outils pertinents selon vos données et questions de recherche.
-- Exercer un regard critique sur ces méthodes (enjeux éthiques, théoriques, etc.)
+- Exercer un regard critique sur ces méthodes (enjeux éthiques, théoriques, etc.).
 - Mobiliser des bibliothèques Python devenues incontournables en analyse de données, NLP, etc.
 
 ## Format du cours et programme prévisionnel
@@ -170,7 +170,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance 17 | Classifier (BERT, Active Tigger) |  |  |
 | Séance 18 | Le texte génératif (LLM et IA GEN) |  |  |
 | Séance 19 | Requête LLM et prompt engineering |  |  |
-| Séance 20 | Évaluer un modèle : application et comparaisons |  |  |
+| Séance 20 | Évaluer les modèles |  |  |
 | Séance 21 | Atelier projet I + bonus Réseaux et données relationnelles |  |  |
 | Séance 22 | Atelier projet II + bonus Réseaux et données relationnelles |  |  |
 | Séance 23 | Autonomie : outillage et installation locale |  |  |
@@ -200,14 +200,19 @@ Livres :
 
 ## À propos  <!-- omit in toc -->
 
-## VRAC
+<!-- 
+Ces slides (et plus généralement les formations) sont le résultat d'échanges et de collaborations. 
 
-**Idées application :**
-S1 :
-- forecasting / prédiction électorale ?
-- predictions/recommandation gouts /films ? etc.
+Ont largement participé :
 
-S2 :
-- comparer des corpus politiques
-- données AN /données réseaux sociaux / presse
-- créer collectivement un classifier active tigger
+- Emilien SChultz
+- Léo Mignot
+- Matthias Bussonnier
+- Mathieu Morey
+- Mickael Temporão
+-->
+
+
+## Licence
+
+Ce projet est sous licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Vous êtes libre d'utiliser, copier, adapter ce contenu ou le partager à condition de créditer les auteurs originaux, de ne pas en faire un usage commercial et de distribuer toute oeuvre dérivée sous cette même licence.
