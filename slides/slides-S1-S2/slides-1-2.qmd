@@ -9,6 +9,7 @@ format:
         scrollable: true
         slideNumber: true
         embed-resources: true
+
 ---
 
 ## Data everywhere
@@ -29,10 +30,30 @@ format:
 ---
 
 ## Tour de table
-- Léo & Mickael
+- Léo
 - Vous !
   
 ![](img/who_are_you.jpg){style="display:block; margin:auto;"}
+
+---
+
+## Moi
+
+<!--
+COMPLÉTER
+-->
+
+---
+
+## Vous
+<!--
+- Name?
+- Field of study?
+- Interests?
+- Previous experience with R?
+- Why are you interested in this course? (Are you?)
+- Who knows that you are here right now? (think of the data you generating)
+-->
 
 ---
 
@@ -61,7 +82,7 @@ format:
 
 - Normal d'avoir des erreurs
 - Importance des petites victoires
-- Vos enseignants aussi galèrent : on fait le pari de découvrir Altair 
+- Vos enseignants aussi galèrent
 
 > "Push through. You’ll suck less."
 > 
