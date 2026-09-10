@@ -68,18 +68,18 @@ Bloc 3 – Statistiques et visualisations (2 séances)
 - Visualisations bivariées : scatterplots, lineplots, boxplots croisés
 - Tests statistiques, régression linéaire et logistique
 
-Bloc 4 – Fondamentaux du Machine Learning et de l'IA (2 séances)  
+Bloc 4 – Collecte de données sur le Web (2 séances)  
+*Objectif : constituer un corpus de données à partir du web*
+
+- Web scraping : principes et mise en pratique
+- Les API et les données ouvertes
+
+Bloc 5 – Fondamentaux du Machine Learning et de l'IA (2 séances)  
 *Objectif : découvrir les grands principes du ML et de l'IA générative*
 
 - Panorama de l'IA
 - ML : entraînement de modèles, train et test sets, etc.
 - Principes de fonctionnement et cas d'usages en sciences sociales
-
-Bloc 5 – Collecte de données sur le Web (2 séances)  
-*Objectif : constituer un corpus de données à partir du web*
-
-- Web scraping : principes et mise en pratique
-- Les API et les données ouvertes
 
 **Blocs semestre 2 :**
 
