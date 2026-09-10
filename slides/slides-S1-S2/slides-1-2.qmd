@@ -12,8 +12,12 @@ format:
 
 ---
 
-## Data everywhere
+## Lien cours
+![](./img/qrcode.png){style="display:block; margin-left:auto; margin-right:auto;"}
 
+---
+
+## Data everywhere
 
 ---
 
@@ -39,20 +43,24 @@ format:
 
 ## Moi
 
-<!--
-COMPLÉTER
--->
+- Léo Mignot
+- Ingénieur de recherche CNRS - CED
+- Sciences sociales computationnelles
+- IA en santé
+- Sociologue (avant tout)
 
 ---
 
 ## Vous
+
+- Qui êtes vous ?
+- Quel thème de recherche ? (même très vague)
+- Déjà une expérience avec des langages de programmation ?
+- Quelles sont vos attentes / Qu'est-ce qui vous intéresse dans ce cours ? (rien est une réponse valable)
+- Qui sait que vous êtes ici ? (pensez aux données que vous générez)
+
 <!--
-- Name?
-- Field of study?
-- Interests?
-- Previous experience with R?
-- Why are you interested in this course? (Are you?)
-- Who knows that you are here right now? (think of the data you generating)
+Inspiré de : https://bookdown.org/paul/computational_social_science/who-are-you.html
 -->
 
 ---
@@ -60,6 +68,8 @@ COMPLÉTER
 ## Organisation du cours
 - Le [syllabus](https://github.com/leomignot/methodes-computationnelles/) précise tout ça
 - Le passer en revue ensemble
+
+![](./img/qrcode.png){style="display:block; margin-left:auto; margin-right:auto;"}
 
 ---
 
@@ -78,15 +88,25 @@ COMPLÉTER
 ---
 
 ## Sucking
+
+::: {.columns}
+::: {.column width="50%"}
 [Andrew Heiss : sucking](https://datavizsp25.classes.andrewheiss.com/slides/01-slides.html#58)
 
 - Normal d'avoir des erreurs
 - Importance des petites victoires
 - Vos enseignants aussi galèrent
+:::
+
+::: {.column width="50%"}
+![](img/sucking-at-something.png)
+:::
+:::
 
 > "Push through. You’ll suck less."
 > 
 > (Hadley Wickham, author of {ggplot2})
+
 
 ---
 
