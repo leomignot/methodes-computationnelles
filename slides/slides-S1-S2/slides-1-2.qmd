@@ -17,19 +17,18 @@ format:
 
 ---
 
-## Data everywhere
+## Contexte
 
----
+- Multiplication des données (types et volume)
+  - données et "digital traces"
+  - nouveaux "terrains"
 
-## But why ? 
+- Avancées informatiques et puissances de calcul
+  - nouvelles méthodes / outils
 
-
-
----
-
-## Définition-ish
-
-
+- Phénomène de hype
+  - intérêts
+  - limites et défis
 
 ---
 
@@ -62,6 +61,31 @@ format:
 <!--
 Inspiré de : https://bookdown.org/paul/computational_social_science/who-are-you.html
 -->
+
+
+---
+
+## Sciences sociales computationnelles ?
+
+- Des sciences sociales avec des ordinateurs (-ish)
+  - méthodes / outils informatiques
+  - grand volume données (ou nouvelles données)
+  - des questions de sciences sociales
+- Intersection entre champs sciences sociales et "datascience" et "computer science"
+  - Interdisciplinaire ? -> meeeeehhhhhhh
+- Renouvellement des objets de recherche et des méthodes
+- Types de recherches/questions
+
+---
+
+## Enjeux
+
+- Outillage / compétences
+- Frontières professionnelles (sciences sociales vs informatique, etc.)
+- Dépendance aux pourvoyeurs de données (compagnies, RS, etc.)
+- Risque guider questions de recherche par disponibilité des données, etc.
+
+> Salganik, M. J. (2018). Bit by bit : Social research in the digital age. Princeton University Press.
 
 ---
 
