@@ -24,12 +24,6 @@ Cet atelier propose une initiation progressive aux méthodes computationnelles �
 
 En s'inscrivant dans une réflexion critique sur les usages computationnels en sciences sociales, il s'agira d'apprendre à collecter, manipuler, explorer et analyser des données empiriques dans le cadre de projets de recherche en sociologie et science politique.
 
-<!--
-Dans un monde où les données sont omniprésentes
-tout en interrogeant les avantages et limites de ces méthodes.
-Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
--->
-
 ### À la fin du semestre, vous saurez <!-- omit in toc -->
 
 - Mobiliser des méthodes computationnelles pour vos projets.
