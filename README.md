@@ -145,10 +145,10 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance 6 | Recoder et créer des variables |  |  |
 | Séance 7 | Statistiques et Visualisations I |  |  |
 | Séance 8 | Statistiques et Visualisations II |  |  |
-| Séance 9 | Fondamentaux ML & IA I |  |  |
-| Séance 10 | Fondamentaux ML & IA II |  |  |
-| Séance 11 | Collecter des données sur le Web (web scraping) |  |  |
-| Séance 12 | Les API et les données ouvertes |  |  |
+| Séance 9 | Collecter des données sur le Web (web scraping) |  |  |
+| Séance 10 | Les API et les données ouvertes |  |  |
+| Séance 11 | Fondamentaux ML & IA I |  |  |
+| Séance 12 | Fondamentaux ML & IA II |  |  |
 | XX/yy/ZZZZ | Rendu S1 |  |  |
 
 **Semestre 2 :**
