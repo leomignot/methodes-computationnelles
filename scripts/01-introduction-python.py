@@ -6,7 +6,7 @@
 # **Objectifs d'apprentissage** 
 # - Apprendre à afficher des résultats (outputs).
 # - Exécuter des cellules de code.
-# - Documenter son code et analyse avec des commentaires.
+# - Documenter son code avec des commentaires.
 # - Réaliser des opérations mathématiques de base.
 # - Créer et manipuler des objets (variables).
 
@@ -39,7 +39,7 @@
 
 # %%
 # La fonction print() permet d'afficher un résultat
-print("Bienvenue au cours de Data Viz à Sciences Po Bordeaux!")
+print("J'adore être dans ce cours !")
 
 # %% [markdown]
 # Remarquez qu'après l'exécution, le résultat apparaît sous la cellule de code.
@@ -54,9 +54,8 @@ print("Bienvenue au cours de Data Viz à Sciences Po Bordeaux!")
 # ### Hack Time
 #
 # Dans la cellule de code ci-dessous :
-# - Affichez "Bonjour!" 
+# - Affichez "Bonjour !" 
 # - Affichez votre prénom et votre nom.
-# - Affichez le message "Analyse de l'ANES 2024".
 
 # %%
 # Votre code va dans cette cellule.
@@ -261,7 +260,7 @@ vainqueur_3 =
 #
 # ### Bonnes pratiques pour nommer/créer vos objets
 # - Utilisez des noms d'objets descriptifs.
-# - Utilisez uniquement des minuscules et des tirets bas (`_`) : c'est aussi appelé le **snake_case** (ex: `resultat_vote_2024`).
+# - Utilisez uniquement des minuscules et des tirets bas (`_`) : c'est aussi appelé le **snake_case** (ex : `resultat_vote_2024`).
 # - Soyez descriptifs : préférez `age_moyen_votants` à `amv`.
 # - N'utilisez pas d'accents afin de prévenir les bugs d'encodage.
 #
