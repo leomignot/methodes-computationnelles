@@ -98,7 +98,7 @@ Bloc 7 – Projets
 
 - Ateliers projets
 
-Bloc 8 – Autonomie (2 séances)  
+Bloc 8 – Autonomie 
 *Objectif : autonomie et installation locale, prendre du recul sur les méthodes*
 
 - Rappel enjeux éthiques & régulation
