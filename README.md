@@ -110,7 +110,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | **Semestre 1** |  |  |
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Rendu computationnel : infographie ou analyse stat  | 40%   |
+| xx/yy/zzzz | Rendu computationnel : analyse stat  | 40%   |
 | **Semestre 2** |  |  |
 | Selon GP   | Démo commentée                                      | 30%   |
 | Séance Y   | Note de lecture                                     | 30%   |
@@ -120,7 +120,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 
 - **Démo commentée  :** Remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
 - **Note de lecture :** Note de lecture en 2 pages d'un article de sciences sociales computationnelles. Idéalement en lien avec le sujet de mémoire envisagé, ou plus générique.
-- **Rendu computationnel :** Application des éléments de programmation. Au premier semestre, rendu d'une infographie ou d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
+- **Rendu computationnel :** Application des éléments de programmation. Au premier semestre, rendu d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
 - **Critères de réussite des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/rendus).
 
 <!-- TODO: Établir suite consignes rendu -->
