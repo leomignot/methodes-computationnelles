@@ -132,7 +132,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance | Description | Slides | Rendu |
 |---|---|---|---|
 | Séance 1 | Introduction  / demos : [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb)| [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html) |  |
-| Séance 2 | Programmer en Python I |  |  |
+| Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/01-introduction-python.ipynb) |  |  |
 | Séance 3 | Programmer en Python II |  |  |
 | Séance 4 | Charger et explorer des données |  |  |
 | Séance 5 | Filtrer et analyser des données |  |  |
