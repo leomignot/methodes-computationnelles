@@ -7,6 +7,10 @@
 # %pip install networkx pandas ipywidgets ipysigma
 
 # %%
+# Si vous travaillez dans Google Colab :
+# from google.colab import output
+# output.enable_custom_widget_manager()
+
 import networkx as nx
 import pandas as pd
 from ipysigma import Sigma
@@ -29,19 +33,9 @@ for _, row in df.dropna(subset=["primary_type", "secondary_type"]).iterrows():
     else:
         G.add_edge(t1, t2, weight=1)
 
-G.number_of_nodes(), G.number_of_edges()
+print("nodes / edges : ", G.number_of_nodes(), G.number_of_edges())
 
-
-# %% [markdown]
-# ## Visualisation interactive avec ipysigma
-#
-
-# %%
-# Si vous travaillez dans Google Colab :
-from google.colab import output
-output.enable_custom_widget_manager()
-
-# %%
+## Visualisation interactive avec ipysigma
 viz = Sigma(
     G,
     node_size=G.degree,
@@ -63,3 +57,5 @@ viz = Sigma(
 )
 
 viz
+
+# %%
