@@ -1,6 +1,6 @@
 # Démo commentée - Consignes
 
-Chaque groupe remet un notebook démonstratif et le présente oralement en cours (10 minutes).  
+Chaque groupe **remet un notebook** démonstratif et le **présente** oralement en cours (10 minutes).  
 La démo porte sur la thématique assignée et doit la rendre accessible et compréhensible pour l'ensemble de la classe : l'objectif n'est pas de tout couvrir en profondeur, mais de transmettre clairement l'essentiel à des pairs qui découvrent la notion.
 
 Structure suggérée (What / Why / How / Resources) :
