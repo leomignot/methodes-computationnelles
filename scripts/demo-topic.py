@@ -1,10 +1,15 @@
+# %% [markdown]
+# # Demo topic
+#
+# ## Cliquer sur les boutons play
+
 # %%
 # Installer bertopic
 # %pip install bertopic
 
 # %%
-import os
-os.environ["NUMBA_THREADING_LAYER"] = "workqueue" # fix for kernel crash with UV
+# import os
+# os.environ["NUMBA_THREADING_LAYER"] = "workqueue" # fix for kernel crash with UV
 
 # importer les bibliothèques nécessaires
 import pandas as pd
@@ -23,5 +28,8 @@ vectorizer_model = CountVectorizer(stop_words="english")
 topic_model = BERTopic(vectorizer_model=vectorizer_model)
 topics, probs = topic_model.fit_transform(docs)
 
+
+
+# %%
 # Visualiser
 topic_model.visualize_documents(docs)
