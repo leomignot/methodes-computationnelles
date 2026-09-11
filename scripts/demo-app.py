@@ -8,4 +8,4 @@
 
 # Et lancer une démo
 # !streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py & npx localtunnel --port 8501
-# (il faudra cliquer sur le lien et copier coller une adresse ip)
+# (il faudra attendre un peu et cliquer sur le lien "your url is: XXXXX" puis copier coller une adresse ip)
