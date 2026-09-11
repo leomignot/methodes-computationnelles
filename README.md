@@ -137,9 +137,9 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-colonnes.ipynb) |  |  |
 | Séance 5 | Filtrer et analyser des données |  |  |
 | Séance 6 | Recoder et créer des variables | :notebook: GP1 |  |
-| Séance 7 | Statistiques et Visualisations I |  | :dart: GP2 |
-| Séance 8 | Statistiques et Visualisations II |  | :dart: GP3 |
-| Séance 9 | Collecter des données sur le Web (web scraping) |  | :dart: GP4 |
+| Séance 7 | Statistiques et Visualisations I | :notebook: GP2 | :dart: GP2 |
+| Séance 8 | Statistiques et Visualisations II | :notebook: GP3 | :dart: GP3 |
+| Séance 9 | Collecter des données sur le Web (web scraping) | :notebook: GP4 | :dart: GP4 |
 | Séance 10 | Les API et les données ouvertes |  |  |
 | Séance 11 | Fondamentaux ML & IA I |  |  |
 | Séance 12 | Fondamentaux ML & IA II |  |  |
