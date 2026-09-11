@@ -1,6 +1,6 @@
 # Méthodes Computationnelles - 4A
 
-Ce repo contiendra les supports pour le cours de Méthodes Computationnelles 4A - Sciences Po Bordeaux (24 séances * 1H30).
+Méthodes Computationnelles 4A - Sciences Po Bordeaux (24 séances * 1H30).
 
 ## Table des matières  <!-- omit in toc -->
 
@@ -149,7 +149,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 
 | Séance | Description | Slides | Rendu |
 |---|---|---|---|
-| Séance 13 | C'est la reprise + suite accès données |  |  |
+| Séance 13 | C'est la reprise + outillage (Project and Data Management) + données  |  |  |
 | Séance 14 | Text as data 101 (BoW, DTM, TF-IDF) |  |  |
 | Séance 15 | Le texte en contexte (SPACY, POS, NER, Embeddings) |  |  |
 | Séance 16 | Topic modelling avec BERTopic |  |  |
