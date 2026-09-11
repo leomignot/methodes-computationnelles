@@ -136,7 +136,7 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-types-et-structures.ipynb) |  |  |
 | Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-colonnes.ipynb) |  |  |
 | Séance 5 | Filtrer et analyser des données |  |  |
-| Séance 6 | Recoder et créer des variables |  | :dart: GP1 |
+| Séance 6 | Recoder et créer des variables | :notebook: GP1 |  |
 | Séance 7 | Statistiques et Visualisations I |  | :dart: GP2 |
 | Séance 8 | Statistiques et Visualisations II |  | :dart: GP3 |
 | Séance 9 | Collecter des données sur le Web (web scraping) |  | :dart: GP4 |
