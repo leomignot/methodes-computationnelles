@@ -1,6 +1,6 @@
 # TODO
 
-- rédiger consigne note lecture
+- décider avec étudiants du format souhaité pour S1 (note lecture vs milestones)
 - rédiger consigne rendu computationnel S1
 - rédiger consigne rendu computationnel S2
 - actualiser liste liens utiles
@@ -21,5 +21,5 @@ S1 :
 S2 :
 - comparer des corpus politiques
 - données AN /données réseaux sociaux / presse
-- paroles morceau ?
+- paroles morceaux musique ?
 - créer collectivement un classifier active tigger
