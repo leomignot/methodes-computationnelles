@@ -8,8 +8,8 @@
 
 # %%
 # Si vous travaillez dans Google Colab :
-# from google.colab import output
-# output.enable_custom_widget_manager()
+from google.colab import output
+output.enable_custom_widget_manager()
 
 import networkx as nx
 import pandas as pd
@@ -57,5 +57,3 @@ viz = Sigma(
 )
 
 viz
-
-# %%
