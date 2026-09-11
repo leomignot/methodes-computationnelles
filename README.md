@@ -132,11 +132,11 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Séance | Description | Slides | Rendu |
 |---|---|---|---|
 | Séance 1 | Introduction  / demos : [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb)| [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html) |  |
-| Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/01-introduction-python.ipynb) |  |  |
-| Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/02-types-et-structures.ipynb) |  |  |
-| Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-exploration-donnees-colonnes.ipynb) |  |  |
-| Séance 5 | [Filtrer et analyser des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-lignes.ipynb) |  |  |
-| Séance 6 | [Recoder et créer des variables](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/05-recodage-creation-variables.ipynb) |  | :dart: GP1 |
+| Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/02-introduction-python.ipynb) |  |  |
+| Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-types-et-structures.ipynb) |  |  |
+| Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-colonnes.ipynb) |  |  |
+| Séance 5 | [Filtrer et analyser des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/05-exploration-donnees-lignes.ipynb) |  |  |
+| Séance 6 | [Recoder et créer des variables](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/06-recodage-creation-variables.ipynb) |  | :dart: GP1 |
 | Séance 7 | Statistiques et Visualisations I |  | :dart: GP2 |
 | Séance 8 | Statistiques et Visualisations II |  | :dart: GP3 |
 | Séance 9 | Collecter des données sur le Web (web scraping) |  | :dart: GP4 |
