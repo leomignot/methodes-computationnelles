@@ -86,7 +86,6 @@ resultats_2028 = None
 #
 # Les opérateurs relationnels permettent de comparer des objets. Ils sont également connus sous le nom d'opérateurs de comparaison. Ils sont souvent utilisés dans les instructions conditionnelles et les boucles pour construire des programmes. Les opérateurs relationnels retournent une valeur booléenne.
 #
-#
 # | Opérateur  | Description      | Exemple |
 # | :-:        |-                 | -:      |
 # | **==**     | Égal à           | a == b  |
