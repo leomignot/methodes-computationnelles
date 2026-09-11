@@ -4,6 +4,8 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 
 ## Calendrier
 
+*Ce programme est provisoire et est susceptible de changer selon les besoins des étudiant.es et le déroulement du cours.*
+
 **Semestre 1 :**
 
 | Séance | Description | Slides | Rendu |
