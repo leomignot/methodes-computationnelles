@@ -131,19 +131,20 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 
 | Séance | Description | Slides | Rendu |
 |---|---|---|---|
-| Séance 1 | Introduction |  |  |
+| Séance 1 | Introduction  / demos : [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb)| [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html) |  |
 | Séance 2 | Programmer en Python I |  |  |
 | Séance 3 | Programmer en Python II |  |  |
 | Séance 4 | Charger et explorer des données |  |  |
 | Séance 5 | Filtrer et analyser des données |  |  |
-| Séance 6 | Recoder et créer des variables |  |  |
-| Séance 7 | Statistiques et Visualisations I |  |  |
-| Séance 8 | Statistiques et Visualisations II |  |  |
-| Séance 9 | Collecter des données sur le Web (web scraping) |  |  |
+| Séance 6 | Recoder et créer des variables |  | :dart: GP1 |
+| Séance 7 | Statistiques et Visualisations I |  | :dart: GP2 |
+| Séance 8 | Statistiques et Visualisations II |  | :dart: GP3 |
+| Séance 9 | Collecter des données sur le Web (web scraping) |  | :dart: GP4 |
 | Séance 10 | Les API et les données ouvertes |  |  |
 | Séance 11 | Fondamentaux ML & IA I |  |  |
 | Séance 12 | Fondamentaux ML & IA II |  |  |
-| XX/yy/ZZZZ | Rendu S1 |  |  |
+| XX/yy/ZZZZ | Rendu S1 |  | :dart: |
+
 
 **Semestre 2 :**
 
