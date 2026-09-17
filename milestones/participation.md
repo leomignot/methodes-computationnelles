@@ -30,10 +30,10 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 
 | Séance | Groupe | Thématique | Suggestions |
 | :---: | :---: | :--- | :--- |
-| **S3-4** | **Groupe 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
-| **S5-6** | **Groupe 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
-| **S7-8** | **Groupe 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées  |
-| **S9** | **Groupe 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
+| **S3-4** | **GP 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
+| **S5-6** | **GP 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
+| **S7-8** | **GP 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées  |
+| **S9** | **GP 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
 
 Nb : Le planning du 2nd semestre sera complété ultérieurement
  
@@ -68,7 +68,7 @@ Immédiatement après chaque démo, l'enseignant choisit au hasard un groupe pou
 - **I wish :** Qu'est-ce qui pourrait être amélioré, clarifié ou développé pour un usage pratique ?
 - **I wonder :** Quelles questions ouvertes ou nouvelles applications cette démonstration inspire-t-elle pour nos projets ?
 
-![](https://images.squarespace-cdn.com/content/v1/55f73529e4b0e5bde7f43a66/1529065898666-ZTYIPZ3Y5PSV0DUZRU90/like+wish+wonder.png)
+![like-wish-wonder-picture](https://images.squarespace-cdn.com/content/v1/55f73529e4b0e5bde7f43a66/1529065898666-ZTYIPZ3Y5PSV0DUZRU90/like+wish+wonder.png)
 
 ---
 
