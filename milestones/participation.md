@@ -33,15 +33,14 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 | **S3-4** | **Groupe 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
 | **S5-6** | **Groupe 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
 | **S7-8** | **Groupe 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées  |
-| **S9** | **Groupe 4** | **machine learning 101** | Train/validation/test, classification vs regression, scikit-learn |
+| **S9** | **Groupe 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, robots.txt |
 
 Nb : Le planning du 2nd semestre sera complété ultérieurement
  
  <!-- TODO: COMPLÉTER S2 -->
  <!-- trace autres sujets
- | **S5-6** | **Groupe 2** | **Data Acquisition & Column Inspection** | Reading ANES data, `.shape`, `.info()`, `.describe()`, column subsetting |
- | **S9** | **Group 4** | **Survey Data Recoding & Variable Creation** | Handling `-9`/`-8`/DK codes to `NaN`, masks vs. `.replace()`, binary indicators |
- 
+| **S9** | **Groupe 4** | **machine learning 101** | Train/validation/test, classification vs regression, scikit-learn |
+
 | Session | Groupe | Sujet & Focus | Exemple de support |
 | :---: | :---: | :--- | :--- |
 | **S2** | **Groupe 1** | **Typst pour la rédaction scientifique** | Syntaxe, structure du document, citations `.bib`, export PDF |
@@ -52,6 +51,7 @@ Nb : Le planning du 2nd semestre sera complété ultérieurement
 | **S9** | **Groupe 2** | **Analyse de sous-groupes & tableaux croisés** | `groupby()`, comparaison des moyennes par groupe, `pd.crosstab(..., normalize='index')` |
 | **S10** | **Groupe 3** | **Régression linéaire & variables catégorielles** | Spécifier `DV ~ IV`, ajouter `C(category)`, interpréter les pentes, niveaux de référence & R² |
 | **S11** | **Groupe 4** | **Spécifications de régression multiples & export de tableaux** | Modèles avec contrôles (Baseline → Démographie → Modèle complet), `make_table` pour Typst |
+
  -->
 
 ### Thèmes de secours
