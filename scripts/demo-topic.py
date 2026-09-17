@@ -33,3 +33,14 @@ topics, probs = topic_model.fit_transform(docs)
 # %%
 # Visualiser
 topic_model.visualize_documents(docs)
+
+# # Les principales fonctions à tester pour avoir un aperçu simple :
+
+# topic_model.get_topic_info()[0:10]
+# topic_model.visualize_barchart())
+# topic_model.visualize_topics() # Meeh https://github.com/MaartenGr/BERTopic/issues/2269#issuecomment-2607040736
+# topic_model.visualize_hierarchy()
+# topic_model.visualize_heatmap()
+# topic_model.get_document_info(docs)
+# topic_model.visualize_documents(docs)
+
