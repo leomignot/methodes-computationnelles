@@ -108,11 +108,11 @@ Ce module, adoptant une approche incrémentale, propose une évaluation continue
 | Activité       | Description                                         | Poids |
 |----------------|-----------------------------------------------------|-------|
 | **Semestre 1** |  |  |
-| Participation  | Démo par groupe, discussion entre pairs, participation active | 30% |
+| Participation  | Démo par groupe, discussion entre pairs, participation continue | 30% |
 | Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
 | Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
 | **Semestre 2** |  |  |
-| Participation  | Démo par groupe, discussion entre pairs, participation active | 30% |
+| Participation  | Démo par groupe, discussion entre pairs, participation continue | 30% |
 | Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
 | Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
 
