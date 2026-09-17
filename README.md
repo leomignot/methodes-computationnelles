@@ -22,7 +22,7 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 | Séance 10 | Les API et les données ouvertes |  |  |
 | Séance 11 | Fondamentaux ML & IA I |  |  |
 | Séance 12 | Fondamentaux ML & IA II |  |  |
-| XX/yy/ZZZZ | Rendu S1 |  | :mortar_board: Analyse stat |
+| XX/yy/ZZZZ | Rendu S1 |  | :mortar_board: Projet |
 
 <!--
 | Séance 5 | [Filtrer et analyser des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/05-exploration-donnees-lignes.ipynb) |  |  |
