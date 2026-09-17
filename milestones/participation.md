@@ -33,7 +33,7 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 | **S3-4** | **Groupe 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
 | **S5-6** | **Groupe 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
 | **S7-8** | **Groupe 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées  |
-| **S9** | **Groupe 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, robots.txt |
+| **S9** | **Groupe 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
 
 Nb : Le planning du 2nd semestre sera complété ultérieurement
  
