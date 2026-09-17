@@ -2,6 +2,8 @@
 
 La note de participation est divisée en trois parties : une démonstration en direct par les groupes d'étudiants, une discussion par les pairs ("I like, I wish, I wonder"), et la participation continue.
 
+---
+
 ## Live Demo
 
 Les étudiant·e·s doivent réaliser une **démo** en groupe visant à faire comprendre à la classe un concept spécifique de programmation ou de statistique appliqué à la recherche en sciences sociales.
