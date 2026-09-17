@@ -1,8 +1,8 @@
-# :busts_in_silhouette: 30% | Participation
+# Participation
 
 La note de participation est divisée en trois parties : une démonstration en direct par les groupes d'étudiants, une discussion par les pairs ("I like, I wish, I wonder"), et la participation continue.
 
-## **:computer: Live Demo**
+## Live Demo
 
 Les étudiant·e·s doivent réaliser une **démo** en groupe visant à faire comprendre à la classe un concept spécifique de programmation ou de statistique appliqué à la recherche en sciences sociales.
 
@@ -26,7 +26,7 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 
 > **Vous pouvez repartir du template fourni en ligne pour vous faciliter la tâche !**
 
-### Calendrier des démos en direct {: #live-demo-schedule }
+### Calendrier des démos
 
 | Séance | Groupe | Thématique | Suggestions |
 | :---: | :---: | :--- | :--- |
@@ -60,7 +60,7 @@ Si une démo programmée doit être remplacée ou si un groupe souhaite explorer
 
 ---
 
-## **:speech_balloon: Discussion par les pairs**
+## Discussion par les pairs
 
 Immédiatement après chaque démo, l'enseignant choisit au hasard un groupe pour ouvrir la discussion. Le groupe sélectionné fournit un retour constructif en utilisant le framework **"I like, I wish, I wonder"** :
 
@@ -72,7 +72,7 @@ Immédiatement après chaque démo, l'enseignant choisit au hasard un groupe pou
 
 ---
 
-## **:repeat: Participation continue**
+## Participation continue
 
 Les étudiant·e·s sont encouragé·e·s à participer activement lors des séances, à prendre part aux exercices pratiques et à contribuer aux discussions collectives (poser des questions, partager des astuces et aider à résoudre les problèmes de code, etc.).
 
