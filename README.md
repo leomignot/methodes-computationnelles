@@ -33,7 +33,7 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 **Semestre 2 :**
 
 | Séance | Description | Slides | Rendu |
-| :--- | :---: | :---: | :---: |
+| :--- | --- | :---: | :---: |
 | Séance 13 | C'est la reprise + outillage (Project and Data Management) + données | | |
 | Séance 14 | Text as data 101 (BoW, DTM, TF-IDF) | | |
 | Séance 15 | Le texte en contexte (SPACY, POS, NER, Embeddings) | | |
