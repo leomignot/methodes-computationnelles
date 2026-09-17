@@ -34,11 +34,11 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 | :---: | :---: | :--- | :--- |
 | **S3-4** | **GP 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
 | **S5-6** | **GP 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
-| **S7-8** | **GP 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées  |
+| **S7-8** | **GP 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées |
 | **S9** | **GP 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
 
 Nb : Le planning du 2nd semestre sera complété ultérieurement
- 
+
  <!-- TODO: COMPLÉTER S2 -->
  <!-- trace autres sujets
 | **S9** | **Groupe 4** | **machine learning 101** | Train/validation/test, classification vs regression, scikit-learn |

@@ -110,11 +110,11 @@ Bloc 8 – Autonomie
 
 Ce module propose une évaluation continue reposant sur la participation (live demo, discussion entre pairs, etc.), la remise de rendus intermédiaires (milestones) et la réalisation de projets computationnels.
 
-| Activité       | Description                                         | Poids |
-|----------------|-----------------------------------------------------|-------|
-| Participation  | Démo par groupe, discussion entre pairs, participation continue | 30% |
-| Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
-| Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
+| Activité | Description | Poids |
+| --- | --- | --- |
+| Participation | Démo par groupe, discussion entre pairs, participation continue | 30% |
+| Milestones | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
+| Projet | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
 
 - **Critères de réussite et description des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/milestones).
 

@@ -9,20 +9,20 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 **Semestre 1 :**
 
 | Séance | Description | Demo | Rendu |
-|---|---|---|---|
-| Séance 1 | Introduction [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html). [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb)|  |  |
-| Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/02-introduction-python.ipynb) |  |  |
-| Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-types-et-structures.ipynb) | :notebook: GP1 |  |
-| Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-colonnes.ipynb) |  |  |
-| Séance 5 | Filtrer et analyser des données | :notebook: GP2 |  |
-| Séance 6 | Recoder et créer des variables |  |  |
+| :--- | :--- | :--- | :--- |
+| Séance 1 | Introduction [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html). [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb) | | |
+| Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/02-introduction-python.ipynb) | | |
+| Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-types-et-structures.ipynb) | :notebook: GP1 | |
+| Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-colonnes.ipynb) | | |
+| Séance 5 | Filtrer et analyser des données | :notebook: GP2 | |
+| Séance 6 | Recoder et créer des variables | | |
 | Séance 7 | Statistiques et Visualisations I | :notebook: GP3 | :dart: Stats desc. |
-| Séance 8 | Statistiques et Visualisations II |  |  |
+| Séance 8 | Statistiques et Visualisations II | | |
 | Séance 9 | Collecter des données sur le Web (web scraping) | :notebook: GP4 | :dart: Visualisation |
-| Séance 10 | Les API et les données ouvertes |  |  |
-| Séance 11 | Fondamentaux ML & IA I |  |  |
-| Séance 12 | Fondamentaux ML & IA II |  |  |
-| XX/yy/ZZZZ | Rendu S1 |  | :mortar_board: Projet |
+| Séance 10 | Les API et les données ouvertes | | |
+| Séance 11 | Fondamentaux ML & IA I | | |
+| Séance 12 | Fondamentaux ML & IA II | | |
+| XX/yy/ZZZZ | Rendu S1 | | :mortar_board: Projet |
 
 <!--
 | Séance 5 | [Filtrer et analyser des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/05-exploration-donnees-lignes.ipynb) |  |  |
@@ -33,20 +33,20 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 **Semestre 2 :**
 
 | Séance | Description | Slides | Rendu |
-|---|---|---|---|
-| Séance 13 | C'est la reprise + outillage (Project and Data Management) + données |  |  |
-| Séance 14 | Text as data 101 (BoW, DTM, TF-IDF) |  |  |
-| Séance 15 | Le texte en contexte (SPACY, POS, NER, Embeddings) |  |  |
-| Séance 16 | Topic modelling avec BERTopic |  |  |
-| Séance 17 | Classifier (BERT, Active Tigger) |  |  |
-| Séance 18 | Le texte génératif (LLM et IA GEN) |  |  |
-| Séance 19 | Requête LLM et prompt engineering |  |  |
-| Séance 20 | Évaluer les modèles |  |  |
-| Séance 21 | Atelier projet I |  |  |
-| Séance 22 | Atelier projet II |  |  |
-| Séance 23 | Autonomie : outillage et installation locale |  |  |
-| Séance 24 | Perspectives et bilan du cours |  |  |
-| XX/yy/ZZZZ | Rendu S2 |  |  |
+| :--- | :--- | :--- | :--- |
+| Séance 13 | C'est la reprise + outillage (Project and Data Management) + données | | |
+| Séance 14 | Text as data 101 (BoW, DTM, TF-IDF) | | |
+| Séance 15 | Le texte en contexte (SPACY, POS, NER, Embeddings) | | |
+| Séance 16 | Topic modelling avec BERTopic | | |
+| Séance 17 | Classifier (BERT, Active Tigger) | | |
+| Séance 18 | Le texte génératif (LLM et IA GEN) | | |
+| Séance 19 | Requête LLM et prompt engineering | | |
+| Séance 20 | Évaluer les modèles | | |
+| Séance 21 | Atelier projet I | | |
+| Séance 22 | Atelier projet II | | |
+| Séance 23 | Autonomie : outillage et installation locale | | |
+| Séance 24 | Perspectives et bilan du cours | | |
+| XX/yy/ZZZZ | Rendu S2 | | |
 
 ## Licence  <!-- omit in toc -->
 
