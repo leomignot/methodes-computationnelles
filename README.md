@@ -8,9 +8,9 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 
 **Semestre 1 :**
 
-| Séance | Description | Slides | Rendu |
+| Séance | Description | Demo | Rendu |
 |---|---|---|---|
-| Séance 1 | Introduction  / demos : [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb)| [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html) |  |
+| Séance 1 | Introduction [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html). [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb)|  |  |
 | Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/02-introduction-python.ipynb) |  |  |
 | Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-types-et-structures.ipynb) |  |  |
 | Séance 4 | [Charger et explorer des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/04-exploration-donnees-colonnes.ipynb) |  |  |
@@ -26,7 +26,7 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 
 <!--
 | Séance 5 | [Filtrer et analyser des données](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/05-exploration-donnees-lignes.ipynb) |  |  |
-| Séance 6 | [Recoder et créer des variables](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/06-recodage-creation-variables.ipynb) |  | :dart: GP1 |
+| Séance 6 | [Recoder et créer des variables](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/06-recodage-creation-variables.ipynb) |  |  |
 
  -->
 
