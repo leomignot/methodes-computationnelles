@@ -9,7 +9,7 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 **Semestre 1 :**
 
 | Séance | Description | Demo | Rendu |
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 | Séance 1 | Introduction [:bookmark_tabs:](https://leomignot.github.io/methodes-computationnelles/slides/slides-S1-S2/slides-1-2.html). [viz](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-viz.ipynb), [network](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-network.ipynb), [topic](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/demo-topic.ipynb) | | |
 | Séance 2 | [Programmer en Python I](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/02-introduction-python.ipynb) | | |
 | Séance 3 | [Programmer en Python II](https://githubtocolab.com/leomignot/methodes-computationnelles/blob/main/notebooks/03-types-et-structures.ipynb) | :notebook: GP1 | |
@@ -33,7 +33,7 @@ Ce repo contient les supports pour le cours de Méthodes Computationnelles 4A - 
 **Semestre 2 :**
 
 | Séance | Description | Slides | Rendu |
-| :--- | :--- | :--- | :--- |
+| :--- | :---: | :---: | :---: |
 | Séance 13 | C'est la reprise + outillage (Project and Data Management) + données | | |
 | Séance 14 | Text as data 101 (BoW, DTM, TF-IDF) | | |
 | Séance 15 | Le texte en contexte (SPACY, POS, NER, Embeddings) | | |
