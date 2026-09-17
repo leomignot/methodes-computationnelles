@@ -8,13 +8,12 @@ Méthodes Computationnelles 4A - Sciences Po Bordeaux (24 séances * 1H30).
 - [Introduction](#introduction)
 - [Format](#format-du-cours-et-programme-prévisionnel)
 - [Validation](#validation-des-acquis)
-- [Calendrier](#calendrier)
 - [Contact](#contact--support)
 - [Liens utiles](#liens-utiles)
 
 ## Introduction
 
-Comment explorer des masses de données complexes et les transformer en connaissances ?
+Comment explorer des masses de données complexes et en tirer des informations utiles en sciences sociales ?
 
 La numérisation des sociétés a profondément transformé la quantité et la nature des données disponibles sur les individus et leurs comportements. Associée au développement des puissances de calcul et l'apparition de nouveaux outils, cette évolution a contribué à un renouvellement des objets de recherche et des méthodes en sciences sociales.
 
@@ -34,7 +33,13 @@ En s'inscrivant dans une réflexion critique sur les usages computationnels en s
 
 ## Format du cours et programme prévisionnel
 
-Les séances sont organisées en format atelier. Chaque séance comportera une dimension pratique, avec des temps d'application et exercices sur des cas concrets. Le module est organisé en séquences progressives :
+Les séances, visant à acquérir des compétences pratiques en méthodes computationnelles, sont organisées autour de différents temps pédagogiques :
+
+- **Méthodes, théorie & concepts de recherche :** L'enseignant présente les fondements méthodologiques essentiels en s'appuyant sur des articles empiriques sélectionnés en science politique comme études de cas illustratives.
+- **Live demo par un groupe d'étudiant·e·s :** Un groupe désigné réalise une démonstration pratique de 10–15 minutes à l'aide d'un support préparé (notebook). Les groupes peuvent prendre rendez-vous avec l'enseignant·e en amont pour obtenir des orientations. Cette séquence est suivie d'une discussion constructive entre pairs, initiée par un groupe choisi au hasard, utilisant le framework "I like, I wish, I wonder".
+- **Atelier pratique :** Les étudiant·e·s travaillent sous la supervision de l'enseignant pour appliquer ces techniques directement à leurs données d'enquête, réaliser des exercices sur des cas concrets et avancer leurs rendus (milestones, projets).
+
+Le module est organisé en séquences progressives :
 
 - au premier semestre : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) statistiques et visualisations, (4) introduction aux principes du machine learning et de l'intelligence artificielle, (5) collecte de données sur le web (web scrapping et API)
 - au second semestre : (6) traitement automatique des langues (TAL/NLP), (7) Projets, (8) autonomie et installation locale.
@@ -103,21 +108,15 @@ Bloc 8 – Autonomie
 
 ## Validation des acquis
 
-Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de trois types de rendus : des démonstrations, des rendus intermédiaires cumulatifs (milestone) et des rendus de projets computationnels.
+Ce module propose une évaluation continue reposant sur la participation (live demo, discussion entre pairs, etc.), la remise de rendus intermédiaires (milestones) et la réalisation de projets computationnels.
 
 | Activité       | Description                                         | Poids |
 |----------------|-----------------------------------------------------|-------|
-| **Semestre 1** |  |  |
-| Participation  | Démo par groupe, discussion entre pairs, participation continue | 30% |
-| Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
-| Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
-| **Semestre 2** |  |  |
 | Participation  | Démo par groupe, discussion entre pairs, participation continue | 30% |
 | Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
 | Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
 
 - **Critères de réussite et description des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/milestones).
-
 
 ## Contact & Support
 
