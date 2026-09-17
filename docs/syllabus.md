@@ -103,65 +103,21 @@ Bloc 8 – Autonomie
 
 ## Validation des acquis
 
-Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de trois types de rendus : des démonstrations, des notes de lecture et des rendus computationnels.
+Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de trois types de rendus : des démonstrations, des rendus intermédiaires cumulatifs (milestone) et des rendus de projets computationnels.
 
-| Date rendu | Description                                         | Poids |
-|------------|-----------------------------------------------------|-------|
+| Activité       | Description                                         | Poids |
+|----------------|-----------------------------------------------------|-------|
 | **Semestre 1** |  |  |
-| Selon GP   | Démo commentée                                      | 30%   |
-| Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Rendu computationnel : analyse stat  | 40%   |
+| Participation  | Démo par groupe, discussion entre pairs, participation active | 30% |
+| Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
+| Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
 | **Semestre 2** |  |  |
-| Selon GP   | Démo commentée                                      | 30%   |
-| Séance Y   | Note de lecture                                     | 30%   |
-| xx/yy/zzzz | Rendu computationnel : application des méthodes     | 40%   |
+| Participation  | Démo par groupe, discussion entre pairs, participation active | 30% |
+| Milestones     | Rendus cumulatifs faisant le lien entre design de recherche, traitement de données, visualisation et modélisation | 40% |
+| Projet         | Rendu d'un projet computationnel reproductible (code + analyse) | 30% |
 
-**Description des rendus :**
+- **Critères de réussite et description des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/milestones).
 
-- **Démo commentée  :** Remise d'un notebook démonstratif et présentation orale (10 minutes) = vous assurez un mini-cours.
-- **Note de lecture :** Note de lecture en 2 pages d'un article de sciences sociales computationnelles. Idéalement en lien avec le sujet de mémoire envisagé, ou plus générique.
-- **Rendu computationnel :** Application des éléments de programmation. Au premier semestre, rendu d'une analyse statistique. Au deuxième semestre, rendu d'un projet appliquant des méthodes de NLP.
-- **Critères de réussite des rendus :** Voir les [consignes](https://github.com/leomignot/methodes-computationnelles/tree/main/milestones).
-
-<!-- TODO: Établir suite consignes rendu -->
-
-## Calendrier
-
-**Semestre 1 :**
-
-| Séance | Description | Présentations | Rendu |
-|---|---|---|---|
-| Séance 1 | Introduction & demos |  |
-| Séance 2 | Programmer en Python I |  |  |
-| Séance 3 | Programmer en Python II |  |  |
-| Séance 4 | Charger et explorer des données |  |  |
-| Séance 5 | Filtrer et analyser des données |  |  |
-| Séance 6 | Recoder et créer des variables | :notebook: GP1 |  |
-| Séance 7 | Statistiques et Visualisations I | :notebook: GP2 | :dart: Stats desc. |
-| Séance 8 | Statistiques et Visualisations II | :notebook: GP3 |  |
-| Séance 9 | Collecter des données sur le Web (web scraping) | :notebook: GP4 | :dart: Visualisation |
-| Séance 10 | Les API et les données ouvertes |  |  |
-| Séance 11 | Fondamentaux ML & IA I |  |  |
-| Séance 12 | Fondamentaux ML & IA II |  |  |
-| XX/yy/ZZZZ | Rendu S1 |  | :mortar_board: Analyse stat |
-
-**Semestre 2 :**
-
-| Séance | Description | Slides | Rendu |
-|---|---|---|---|
-| Séance 13 | C'est la reprise + outillage (Project and Data Management) + données  |  |  |
-| Séance 14 | Text as data 101 (BoW, DTM, TF-IDF) |  |  |
-| Séance 15 | Le texte en contexte (SPACY, POS, NER, Embeddings) |  |  |
-| Séance 16 | Topic modelling avec BERTopic |  |  |
-| Séance 17 | Classifier (BERT, Active Tigger) |  |  |
-| Séance 18 | Le texte génératif (LLM et IA GEN) |  |  |
-| Séance 19 | Requête LLM et prompt engineering |  |  |
-| Séance 20 | Évaluer les modèles |  |  |
-| Séance 21 | Atelier projet I |  |  |
-| Séance 22 | Atelier projet II |  |  |
-| Séance 23 | Autonomie : outillage et installation locale |  |  |
-| Séance 24 | Perspectives et bilan du cours |  |  |
-| XX/yy/ZZZZ | Rendu S2 |  |  |
 
 ## Contact & Support
 
