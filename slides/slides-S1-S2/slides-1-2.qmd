@@ -55,7 +55,7 @@ format:
 - Qui êtes vous ?
 - Quel thème de recherche ? (même très vague)
 - Déjà une expérience avec des langages de programmation ?
-- Quelles sont vos attentes / Qu'est-ce qui vous intéresse dans ce cours ? (rien est une réponse valable)
+- Quelles sont vos attentes / Qu'est-ce qui vous intéresse dans ce cours ? ("rien" est une réponse valable)
 - Qui sait que vous êtes ici ? (pensez aux données que vous générez)
 
 <!--
@@ -82,7 +82,7 @@ Inspiré de : https://bookdown.org/paul/computational_social_science/who-are-you
 
 - Outillage / compétences
 - Frontières professionnelles (sciences sociales vs informatique, etc.)
-- Dépendance aux pourvoyeurs de données (compagnies, RS, etc.)
+- Dépendance aux pourvoyeurs de données (entreprises, RS, etc.)
 - Risque guider questions de recherche par disponibilité des données, etc.
 
 > Salganik, M. J. (2018). Bit by bit : Social research in the digital age. Princeton University Press.
@@ -131,6 +131,10 @@ Inspiré de : https://bookdown.org/paul/computational_social_science/who-are-you
 > 
 > (Hadley Wickham, author of {ggplot2})
 
+
+---
+
+## Démos
 
 ---
 
