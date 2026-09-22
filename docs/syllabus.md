@@ -35,14 +35,14 @@ En s'inscrivant dans une réflexion critique sur les usages computationnels en s
 
 Les séances, visant à acquérir des compétences pratiques en méthodes computationnelles, sont organisées autour de différents temps pédagogiques :
 
-- **Méthodes, théorie & concepts de recherche :** L'enseignant présente les fondements méthodologiques essentiels en s'appuyant sur des articles empiriques sélectionnés en science politique comme études de cas illustratives.
-- **Live demo par un groupe d'étudiant·e·s :** Un groupe désigné réalise une démonstration pratique de 10–15 minutes à l'aide d'un support préparé (notebook). Les groupes peuvent prendre rendez-vous avec l'enseignant·e en amont pour obtenir des orientations. Cette séquence est suivie d'une discussion constructive entre pairs, initiée par un groupe choisi au hasard, utilisant le framework "I like, I wish, I wonder".
-- **Atelier pratique :** Les étudiant·e·s travaillent sous la supervision de l'enseignant pour appliquer ces techniques directement à leurs données d'enquête, réaliser des exercices sur des cas concrets et avancer leurs rendus (milestones, projets).
+- **Méthodes, théorie & concepts de recherche :** L'enseignant présente les éléments méthodologiques essentiels en s'appuyant sur des exemples de code et des articles empiriques illustratifs.
+- **Live demo par un groupe d'étudiant·e·s :** Le groupe désigné réalise une démonstration pratique de 10–15 minutes à l'aide d'un support préparé (notebook). Les groupes peuvent prendre rendez-vous avec l'enseignant·e en amont pour obtenir des conseils. Cette séquence est suivie d'une discussion entre pairs, initiée par un groupe choisi au hasard, utilisant le framework "I like, I wish, I wonder".
+- **Atelier pratique :** Les étudiant·e·s travaillent sous la supervision de l'enseignant pour appliquer ces techniques directement à leurs données d'enquête, réaliser des exercices sur des cas concrets et avancer leurs rendus.
 
 Le module est organisé en séquences progressives :
 
 - au premier semestre : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) statistiques et visualisations, (4) introduction aux principes du machine learning et de l'intelligence artificielle, (5) collecte de données sur le web (web scrapping et API)
-- au second semestre : (6) traitement automatique des langues (TAL/NLP), (7) Projets, (8) autonomie et installation locale.
+- au second semestre : (6) traitement automatique des langues (TAL/NLP), (7) projets, (8) autonomie et installation locale.
 
 **Blocs semestre 1 :**
 
