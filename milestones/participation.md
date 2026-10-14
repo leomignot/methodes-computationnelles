@@ -35,9 +35,22 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 | **S3-4** | **GP 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
 | **S5-6** | **GP 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
 | **S7-8** | **GP 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées |
-| **S9** | **GP 4** | **scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
+| **S9** | **GP 4** | **Scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
 
 Nb : Le planning du 2nd semestre sera complété ultérieurement
+
+**Dates prévisionnelles suite blocage :**
+
+- 20 oct - GP 1 : Marcia, Isia, Amélie - Python & Pandas Data Structures
+- 10 nov - GP 2 : Ilona, Max, Morgane - Filtrage de lignes & analyse univariée
+- 24 nov - GP 3 : Jacobo, Anaïs, Youna - Visualisation de données
+- 01 déc GP 4 : Yanis, Margot - Scraping
+
+Et si toujours bloqué le 20 : 
+- 10 nov - GP 1 : Marcia, Isia, Amélie - Python & Pandas Data Structures
+- 24 nov - GP 2 : Ilona, Max, Morgane - Filtrage de lignes & analyse univariée
+- 01 déc matin - GP 3 : Jacobo, Anaïs, Youna - Visualisation de données
+- 01 déc aprem - GP 4 : Yanis, Margot - Scraping
 
  <!-- TODO: COMPLÉTER S2 -->
  <!-- trace autres sujets
@@ -79,3 +92,12 @@ Immédiatement après chaque démo, l'enseignant choisit au hasard un groupe pou
 Les étudiant·e·s sont encouragé·e·s à participer activement lors des séances, à prendre part aux exercices pratiques et à contribuer aux discussions collectives (poser des questions, partager des astuces et aider à résoudre les problèmes de code, etc.).
 
 <!-- Aviser : création groupe whatsapp ? -->
+
+---
+
+## Composition des groupes
+
+- GP 1 : Marcia, Isia, Amélie
+- GP 2 : Ilona, Max, Morgane
+- GP 3 : Jacobo, Anaïs, Youna
+- GP 4 : Yanis, Margot
