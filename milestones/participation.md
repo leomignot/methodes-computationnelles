@@ -46,7 +46,8 @@ Nb : Le planning du 2nd semestre sera complété ultérieurement
 - 24 nov - GP 3 : Jacobo, Anaïs, Youna - Visualisation de données
 - 01 déc GP 4 : Yanis, Margot - Scraping
 
-Et si toujours bloqué le 20 : 
+Et si toujours bloqué le 20 :
+
 - 10 nov - GP 1 : Marcia, Isia, Amélie - Python & Pandas Data Structures
 - 24 nov - GP 2 : Ilona, Max, Morgane - Filtrage de lignes & analyse univariée
 - 01 déc matin - GP 3 : Jacobo, Anaïs, Youna - Visualisation de données
