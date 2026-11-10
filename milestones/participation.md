@@ -33,7 +33,7 @@ Une démo en direct est une démonstration pratique et interactive montrant comm
 | Séance | Groupe | Thématique | Suggestions |
 | :---: | :---: | :--- | :--- |
 | **S3-4** | **GP 1** | **Python & Pandas Data Structures** | Variables, listes, dictionnaires, notions de base sur Series & DataFrame |
-| **S5-6** | **GP 2** | **Filtrage de lignes & analyse univariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()` |
+| **S5-6** | **GP 2** | **Filtrage de lignes & analyse uni et bivariée** | Masques booléens, `.value_counts()`, distributions avec `.plot()`, `crosstab` |
 | **S7-8** | **GP 3** | **Visualisation de données** | `.plot()`, seaborn, plotly, barplots, scatterplots, lineplots, viz bi & multivariées |
 | **S9** | **GP 4** | **Scraping** | requests, beautifulsoup4, HTTP, HTML, balises, robots.txt |
 
@@ -94,6 +94,6 @@ Les étudiant·e·s sont encouragé·e·s à participer activement lors des séa
 **Dates prévisionnelles suite blocage :**
 
 - 10 nov - GP 1 : Marcia, Isia, Amélie - Python & Pandas Data Structures
-- 24 nov - GP 2 : Ilona, Max, Morgane - Filtrage de lignes & analyse univariée
+- 24 nov - GP 2 : Ilona, Max, Morgane - Filtrage de lignes & analyse uni et bivariée
 - 01 déc matin - GP 3 : Jacobo, Anaïs, Youna - Visualisation de données
 - 01 déc aprem - GP 4 : Yanis, Margot - Scraping
