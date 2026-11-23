@@ -256,9 +256,7 @@ df.plot(kind="box", column="age", by="ideologie")
 #
 # #### Tableaux croisés
 #
-# On peut utiliser la fonction `pd.crosstab()` pour réaliser des tableaux croisés entre deux variables (ou plus) 
-#
-# ![](https://raw.githubusercontent.com/SciencesPoBordeaux/data-viz/refs/heads/main/figures/pd.crosstab.png)
+# On peut utiliser la fonction `pd.crosstab()` pour réaliser des tableaux croisés entre deux variables (ou plus).
 #
 # Pour de l'aide sur une fonction, vous pouvez faire appel à :
 # ```python
