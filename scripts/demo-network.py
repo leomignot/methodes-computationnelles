@@ -57,3 +57,4 @@ viz = Sigma(
 )
 
 viz
+# en local, peut nécessiter de rerun la cellule pour que l'affichage soit correct (mini bug affichage)
