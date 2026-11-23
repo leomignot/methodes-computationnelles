@@ -3,7 +3,7 @@ name = "methodes-computationnelles"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.14"
 dependencies = [
     "bertopic>=0.17.4",
     "ipykernel>=7.3.0",
